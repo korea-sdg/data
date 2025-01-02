@@ -32,11 +32,11 @@ CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
   ## Definition:
   
-  The proportion of the employed population below the international poverty
-  line of US$1.90 per day, also referred to as the working poverty rate, is
-  defined as the share of employed persons living in households with per-capita
-  consumption or income that is below the international poverty line of
-  US$1.90.
+  국제빈곤층 이하 취업인구 비율
+  근로빈곤율이라고도 불리는 하루 미화 1.90달러 선은
+  1인당 가구에 거주하는 취업자의 비율로 정의됩니다.
+  국제 빈곤선 이하의 소비 또는 소득
+  미화 1.90달러.
   
   ## Concepts:
   
